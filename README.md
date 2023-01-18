@@ -12,7 +12,7 @@ Hi 👋, I'm Aymen Hammami
 
 <br>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ayminovitch&show_icons=true)
+![My github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayminovitch&show_icons=true)
 
 
 [LinkedIn]: https://www.linkedin.com/in/hammamiaymen
