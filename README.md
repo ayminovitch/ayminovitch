@@ -7,7 +7,7 @@ Hi 👋, I'm Aymen Hammami
 
 <br>
 
-- 📫 You can reach me at **vor@live.com**
+- 📫 You can reach me at **hello@aymen-hammami.com**
 - 📄 Know more about my experiences on [LinkedIn]
 
 <br>
