@@ -12,7 +12,4 @@ I'm currently open to freelance opportunities and collaborations. If you're look
 
 Together, we can build something amazing!
 
-<br>
-
-![My github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayminovitch&show_icons=true)
 
