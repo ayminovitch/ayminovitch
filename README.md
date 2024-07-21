@@ -1,18 +1,18 @@
-<h1 align="center">
-Hi 👋, I'm Aymen Hammami
+# Hi, I'm Aymen Hammami! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=ayminovitch)
-</h1>
-<h3 align="center">A passionate Software Engineer from Tunisia</h3>
+## About Me
+I'm a Senior Software Engineer specializing in Python, Django, Php, Symfony, and React.js. With a solid track record of delivering high-quality web applications, I thrive on solving complex problems and turning ideas into reality.
 
-<br>
+## Let's Work Together!
+I'm currently open to freelance opportunities and collaborations. If you're looking for a skilled developer to help you with your next project, don't hesitate to reach out!
 
-- 📫 You can reach me at **hello@aymen-hammami.com**
-- 📄 Know more about my experiences on [LinkedIn]
+- 💼 [Hire me on Upwork](https://www.upwork.com/freelancers/~015180ba1c9fc2ff90?mp_source=share)
+- 💬 [Connect on LinkedIn](https://www.linkedin.com/in/hammamiaymen/)
+- 📧 [Contact me via email](mailto:hello@aymen-hammami.com)
+
+Together, we can build something amazing!
 
 <br>
 
 ![My github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayminovitch&show_icons=true)
 
-
-[LinkedIn]: https://www.linkedin.com/in/hammamiaymen
