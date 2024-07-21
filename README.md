@@ -1,7 +1,7 @@
 # Hi, I'm Aymen Hammami! 👋
 
 ## About Me
-I'm a Senior Software Engineer specializing in Python, Django, Php, Symfony, and React.js. With a solid track record of delivering high-quality web applications, I thrive on solving complex problems and turning ideas into reality.
+I'm a Senior Software Engineer specializing in Python, Django, PHP Symfony, and React.js. With a solid track record of delivering high-quality web applications, I thrive on solving complex problems and turning ideas into reality. I am also an AWS Solution Architect and Scrum Master, bringing additional expertise to my projects.
 
 ## Let's Work Together!
 I'm currently open to freelance opportunities and collaborations. If you're looking for a skilled developer to help you with your next project, don't hesitate to reach out!
