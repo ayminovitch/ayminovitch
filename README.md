@@ -26,8 +26,8 @@
 ---
 
 ### 🏆 Certifications  
-- [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/earner/earned/badge/0e601eb7-f159-4109-9526-9a189ca089fc) | 2021  
-- [**Professional Scrum Master I (PSM I)**](https://www.credly.com/earner/earned/badge/1897a279-cb15-4a66-b949-49a0649363b8) | 2021  
+- [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/0e601eb7-f159-4109-9526-9a189ca089fc/public_url) | 2021  
+- [**Professional Scrum Master I (PSM I)**](https://www.credly.com/badges/1897a279-cb15-4a66-b949-49a0649363b8/public_url) | 2021  
 - **Java OCA** | 2018  
 
 ---
