@@ -2,8 +2,8 @@
 **Full-Stack Engineer | AWS Architect | Scrum Master**  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%230077B5?style=flat&logo=google-chrome)](https://aymen-hammami.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin)](https://linkedin.com/in/aymen-hammami-senior-engineer)
-[![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect-orange)](https://www.credly.com/earner/earned/badge/0e601eb7-f159-4109-9526-9a189ca089fc)
-[![Scrum Master](https://img.shields.io/badge/Scrum.org-PSM%20I-brightgreen)](https://www.credly.com/earner/earned/badge/1897a279-cb15-4a66-b949-49a0649363b8)
+[![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect-orange)](https://www.credly.com/badges/0e601eb7-f159-4109-9526-9a189ca089fc/public_url)
+[![Scrum Master](https://img.shields.io/badge/Scrum.org-PSM%20I-brightgreen)](https://www.credly.com/badges/1897a279-cb15-4a66-b949-49a0649363b8/public_url)
 
 ---
 
